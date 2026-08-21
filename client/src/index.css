@@ -1,8 +1,1 @@
-:root {
-  font-family: 'Inter', sans-serif;
-}
-
-*{
-  box-sizing: border-box;
-  
-}
+@import "tailwindcss";
