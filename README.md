@@ -14,7 +14,12 @@
 
 <br>
 
+<div align="center">
+
 ![Status](https://img.shields.io/badge/STATUS-IN%20DEVELOPMENT-red)
+![Current Phase](https://img.shields.io/badge/CURRENT%20PHASE-FOUNDATION-red)
+
+</div>
 
 </div>
 
@@ -72,7 +77,7 @@ Unlock achievements by reaching survival milestones and completing increasingly 
 
 ---
 
-## 🛠️ TECHNOLOGY STACK
+## 🛠️ PLANNED TECHNOLOGY STACK
 
 ### Frontend
 
@@ -308,6 +313,24 @@ The DOOMSDAY interface is designed around a dark, cinematic emergency-command ae
 
 ---
 
+## 📈 CURRENT PROGRESS
+
+| Area             | Status         |
+| ---------------- | -------------- |
+| Repository       | ✅ Complete    |
+| Git Workflow     | ✅ Complete    |
+| Documentation    | 🚧 In Progress |
+| Visual Design    | 🚧 In Progress |
+| Frontend         | ⏳ Not Started |
+| Backend          | ⏳ Not Started |
+| Database         | ⏳ Not Started |
+| Authentication   | ⏳ Not Started |
+| Real-Time System | ⏳ Not Started |
+| Testing          | ⏳ Not Started |
+| Deployment       | ⏳ Not Started |
+
+---
+
 ## 🚀 INSTALLATION & LOCAL DEVELOPMENT
 
 ### Prerequisites
@@ -321,6 +344,6 @@ Before running DOOMSDAY locally, make sure you have the following installed:
 ### Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/DOOMSDAY.git
+git clone https://github.com/Sarthak2284/DOOMSDAY.git
 cd DOOMSDAY
 ```
